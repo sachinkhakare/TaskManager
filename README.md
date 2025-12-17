@@ -8,3 +8,6 @@ Add a new task
 Toggle task status (complete/incomplete)
 Delete a task
 Static task list
+
+
+Note: You can directly unzip the project file and add it to the Sandbox compiler.
